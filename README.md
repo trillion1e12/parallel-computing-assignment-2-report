@@ -1,3 +1,3 @@
-# LaTeX Assignment Template
+# LaTeX report for Parallel Computing (CO5133) assignment 2
 
-Source: Lost...
+Course information: [Parallel Computing (CO5133)](https://hcmut.edu.vn/study/handbook/subject/CO5133)
