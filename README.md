@@ -1,0 +1,3 @@
+# LaTeX Assignment Template
+
+Source: Lost...
