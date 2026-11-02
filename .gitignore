@@ -1,6 +1,6 @@
 *.aux
 *.bbl*
-*.bcf
+*.bcf*
 *.fdb_latexmk
 *.fls
 *.lof
